@@ -16,6 +16,21 @@ Git allows developers like Hiren Rana and Kamal Bhagat, to release their applica
 
 [https://www.atlassian.com/git/tutorials/why-git](https://www.atlassian.com/git/tutorials/why-git)
 
+## Docker
+
+Docker is specifically designed so that software engineers can build, ship, and run any business critical applications in production level. User is able to build out and share containers. That way, it will automate the development pipeline from a single environment. There can be multiple containers in the pipeline and each of these containers refers to the app or certain system.
+
+For example, if the user is trying to create web application, then the user needs to make sure that following items are there and working:
+
+ - Database that can store enough data related to application.
+ - Accessible Front-end (UI).
+ - API layer to enable communication between the front-end and the database.
+ - To host the UI and API, need to have web server.
+
+If the organization does not implement Docker, then they would have to manage each of listed items very manually. By having manual process in placed, it becomes hard for developers to keep track of environments, services, and data processes. This is where Docker and containers come in very handy by containerize all of the listed items and simply have the web application running with single command. As mentioned on their website, “Docker is the de facto developer standard for building and sharing apps that enable simplicity, agility and choice for software development across any infrastructure so that you can get your job done and deploy your applications faster.” As a result, it helps developers speed up their workflows and have applications deploying in the production environment at faster rate.
+
+[https://www.docker.com/why-docker](https://www.docker.com/why-docker)
+
 ## GitFlow
 
 GitFlow is way to collaborate codes via teams using a method called **branching**. Using branching, each team member is able to work on various aspects of their code in parallel to other aspects. This allows work to be split and each split branch focused on by different individuals. Once branches are completed and ready, the codes can be **merged** back into a master branch prior to release. Once a code is ready for release, it can be cloned and branched off into a develop mode. This code is then run to ensure any bugs are identified and fixed. If there is a need to edit the source code, the respective teams can make the edits merge the branches back into the master branch and a new testable code be branched off to test in development.
