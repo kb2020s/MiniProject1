@@ -35,3 +35,10 @@ A branch is a subset of a master wherein users can work on a separate copy in pa
 A **commit** is essentially saving a file. The changes made to the branch or file is saved ready to be merged to a master branch. A commit is performed through **git commit**
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Merge 
+
+A merge takes changes from one branch and adds it into a different branch or to the master branch. A merge can be completed through a pull request.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
