@@ -11,3 +11,9 @@ GitFlow is way to collaborate codes via teams using a method called **branching*
 A repository is the overall **folder** for a project. All of the respective files are contained within a repository including branches, README, requests, etc. A simple repository can be created through Github main page. This is simply a folder which will contain all of the respective parts of the overall project.
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Clone
+
+A clone is used to make a copy of a repository. The purpose of this clone is so edits and changes can be made without it affecting the actual released repository that is stored online. The changes to a clone can be pushed into the online repository once a change is made and completed. A clone can be created through Github.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
