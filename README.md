@@ -42,3 +42,8 @@ A merge takes changes from one branch and adds it into a different branch or to 
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
+## Checkout 
+
+A checkout is switching between different branches. This can be done through **git checkout [name of branch]**.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
