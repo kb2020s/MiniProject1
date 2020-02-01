@@ -65,3 +65,15 @@ A pull allows a user to grab files from a master or different file so that it ca
 Remote Add is similar to clone in the sense that it adds a remote repository so that it can be worked on and collaborated with various users. This can be done through  **git remote add [shortname] [url]**.
 
 [https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+
+## Status
+
+Status allows a user to see the status of a file or commit. This can be done through **git status**.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Master
+
+The Master Branch is the main local path of the repository. In a collaboration sense, branches are created from the master branch. Each branch is worked on and then merged with the master.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
