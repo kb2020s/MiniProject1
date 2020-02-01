@@ -4,6 +4,20 @@
 
 **Group Members**: Kamal Bhagat & Hiren Rana
 
+## Git
+
+As mentioned in the lecture, Git is one of the most widely used version control system around the world. It was originally developed in 2005 by Linus Torvalds, who created Linux operating system kernel. Git is also open source project with very great documentation, including tutorials and dedicated web sites. In addition to that, Git also provides the functionality,performance, security, and flexibility so that it allows teams across the world to work efficiently on their applications. If the organization decides to implement Git in their projects, it would certainly reduce team’s communication overhead and increase release velocity. Each developer in the team is allowed to work independently on their separate branches of feature development and then, eventually merging those changes together.
+
+For example, to submit this assignment, I created branches to work on the first part of the assignment and Hiren Rana created another branches to work on last part of the assignment. By utilizing Git, we both can work on the same assignment as shown below in the figure. 
+
+![Git Example](/images/git.png)
+
+Once the changes were committed, each of us are responsible to review each other’s pull requests to make sure that, there is not any conflict. Finally, we can merge all those branches, in order to complete high quality assignment. 
+
+Git allows developers like Hiren Rana and I, to release our application in production environment at faster rate. It certainly creates agile workflow for developers so that they can work on small changes for the application frequently and then, have those changes release in the production with the process of creating feature branches, distributed development, and pull requests.
+
+[https://www.atlassian.com/git/tutorials/why-git](https://www.atlassian.com/git/tutorials/why-git)
+
 ## GitFlow
 
 GitFlow is way to collaborate codes via teams using a method called **branching**. Using branching, each team member is able to work on various aspects of their code in parallel to other aspects. This allows work to be split and each split branch focused on by different individuals. Once branches are completed and ready, the codes can be **merged** back into a master branch prior to release. Once a code is ready for release, it can be cloned and branched off into a develop mode. This code is then run to ensure any bugs are identified and fixed. If there is a need to edit the source code, the respective teams can make the edits merge the branches back into the master branch and a new testable code be branched off to test in development.
