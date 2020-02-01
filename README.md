@@ -1,5 +1,9 @@
 # MiniProject1
 
+**Project Description:** This document explains how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company. In addition, this document also provides explanations around the usage of **Vi** and **GitFlow**.
+
+**Group Members**: Kamal Bhagat & Hiren Rana
+
 ## GitFlow
 
 GitFlow is way to collaborate codes via teams using a method called **branching**. Using branching, each team member is able to work on various aspects of their code in parallel to other aspects. This allows work to be split and each split branch focused on by different individuals. Once branches are completed and ready, the codes can be **merged** back into a master branch prior to release. Once a code is ready for release, it can be cloned and branched off into a develop mode. This code is then run to ensure any bugs are identified and fixed. If there is a need to edit the source code, the respective teams can make the edits merge the branches back into the master branch and a new testable code be branched off to test in development.
