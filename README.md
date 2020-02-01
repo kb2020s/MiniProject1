@@ -62,6 +62,6 @@ A pull allows a user to grab files from a master or different file so that it ca
 
 ## Remote Add 
 
-Remote Add is similar to clone in the sense that it adds a remote repository so that it can be worked on and collaborated with various users. This can be done through  **git remote add <shortname> <url>**.
+Remote Add is similar to clone in the sense that it adds a remote repository so that it can be worked on and collaborated with various users. This can be done through  **git remote add [shortname] [url]**.
 
 [https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
