@@ -23,3 +23,9 @@ A clone is used to make a copy of a repository. The purpose of this clone is so 
 A fork is similar to a clone in which it is a copy of a repository. Similarly to a clone, changes can be made to this forked repository without it affecting the master repository (the original). The difference is a fork is linked to the overall repository wherein a user can ask to have their changes pushed to the original file.
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Branch 
+
+A branch is a subset of a master wherein users can work on a separate copy in parallel to other branches and then merge these branches back to the master once complete. Typically a branch is created through **git checkout –b 'newbranch'**
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
