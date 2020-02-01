@@ -17,3 +17,9 @@ A repository is the overall **folder** for a project. All of the respective file
 A clone is used to make a copy of a repository. The purpose of this clone is so edits and changes can be made without it affecting the actual released repository that is stored online. The changes to a clone can be pushed into the online repository once a change is made and completed. A clone can be created through Github.
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Fork
+
+A fork is similar to a clone in which it is a copy of a repository. Similarly to a clone, changes can be made to this forked repository without it affecting the master repository (the original). The difference is a fork is linked to the overall repository wherein a user can ask to have their changes pushed to the original file.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
