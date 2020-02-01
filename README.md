@@ -14,7 +14,7 @@ For example, to submit this assignment, I created branches to work on the first 
 
 Once the changes were committed, each of us are responsible to review each other’s pull requests to make sure that, there is not any conflict. Finally, we can merge all those branches, in order to complete high quality assignment. 
 
-Git allows developers like Hiren Rana and I, to release our application in production environment at faster rate. It certainly creates agile workflow for developers so that they can work on small changes for the application frequently and then, have those changes release in the production with the process of creating feature branches, distributed development, and pull requests.
+Git allows developers like Hiren Rana and Kamal Bhagat, to release their applications in production environment at faster rate. It certainly creates agile workflow for developers so that they can work on small changes for the application frequently and then, have those changes release in the production with the process of creating feature branches, distributed development, and pull requests.
 
 [https://www.atlassian.com/git/tutorials/why-git](https://www.atlassian.com/git/tutorials/why-git)
 
