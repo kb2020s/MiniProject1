@@ -29,3 +29,9 @@ A fork is similar to a clone in which it is a copy of a repository. Similarly to
 A branch is a subset of a master wherein users can work on a separate copy in parallel to other branches and then merge these branches back to the master once complete. Typically a branch is created through **git checkout –b 'newbranch'**
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Commit
+
+A **commit** is essentially saving a file. The changes made to the branch or file is saved ready to be merged to a master branch. A commit is performed through **git commit**
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
