@@ -47,3 +47,15 @@ A merge takes changes from one branch and adds it into a different branch or to 
 A checkout is switching between different branches. This can be done through **git checkout [name of branch]**.
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Push
+
+Push allows a user to submit their files to a repository. This can be done through **git push [name of master]**.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
+
+## Pull 
+
+A pull allows a user to grab files from a master or different file so that it can be edited so that you are working from the current, latest file.
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
