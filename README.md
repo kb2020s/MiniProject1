@@ -28,13 +28,17 @@ A fork is similar to a clone in which it is a copy of a repository. Similarly to
 
 ## Branch 
 
-A branch is a subset of a master wherein users can work on a separate copy in parallel to other branches and then merge these branches back to the master once complete. Typically a branch is created through **git checkout –b 'newbranch'**
+A branch is a subset of a master wherein users can work on a separate copy in parallel to other branches and then merge these branches back to the master once complete. Typically a branch is created through **git checkout –b 'newbranch'**. Below is the example: 
+
+![Git Branch Example](/images/branch.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 ## Commit
 
-A **commit** is essentially saving a file. The changes made to the branch or file is saved ready to be merged to a master branch. A commit is performed through **git commit**
+A **commit** is essentially saving a file. The changes made to the branch or file is saved ready to be merged to a master branch. A commit is performed through **git commit**. Below is the example: 
+
+![Git Commit Example](/images/commit.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
@@ -46,36 +50,48 @@ A merge takes changes from one branch and adds it into a different branch or to 
 
 ## Checkout 
 
-A checkout is switching between different branches. This can be done through **git checkout [name of branch]**.
+A checkout is switching between different branches. This can be done through **git checkout [name of branch]**. Below is the example: 
+
+![Git Checkout Example](/images/checkout.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 ## Push
 
-Push allows a user to submit their files to a repository. This can be done through **git push [name of master]**.
+Push allows a user to submit their files to a repository. This can be done through **git push [name of master]**. Below is the example: 
+
+![Git Push Example](/images/push.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 ## Pull 
 
-A pull allows a user to grab files from a master or different file so that it can be edited so that you are working from the current, latest file.
+A pull allows a user to grab files from a master or different file so that it can be edited so that you are working from the current, latest file. Below is the example: 
+
+![Git Pull Example](/images/pull.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 ## Remote Add 
 
-Remote Add is similar to clone in the sense that it adds a remote repository so that it can be worked on and collaborated with various users. This can be done through  **git remote add [shortname] [url]**.
+Remote Add is similar to clone in the sense that it adds a remote repository so that it can be worked on and collaborated with various users. This can be done through  **git remote add [shortname] [url]**. Below is the example: 
+
+![Git Remote Add Example](/images/remote_add.png)
 
 [https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
 
 ## Status
 
-Status allows a user to see the status of a file or commit. This can be done through **git status**.
+Status allows a user to see the status of a file or commit. This can be done through **git status**. Below is the example: 
+
+![Git Status Example](/images/status.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 ## Master
 
-The Master Branch is the main local path of the repository. In a collaboration sense, branches are created from the master branch. Each branch is worked on and then merged with the master.
+The Master Branch is the main local path of the repository. In a collaboration sense, branches are created from the master branch. Each branch is worked on and then merged with the master. Below is the example: 
+
+![Git Master Example](/images/master.png)
 
 [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
