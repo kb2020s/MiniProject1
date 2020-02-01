@@ -31,6 +31,16 @@ If the organization does not implement Docker, then they would have to manage ea
 
 [https://www.docker.com/why-docker](https://www.docker.com/why-docker)
 
+## Continuous Integration
+
+By utilizing tools like Git and Docker, it allows users to have continuous integration and delivery environments for any given applications. Features like Git hooks, can also allow users to perform scripts when specific events take place inside the repository. Continuous integration can certainly allow code from different developers in your team, to be dependable. That way, it can automate the deployment process and it allows developers to deploy code from local branches to various preferred servers.
+
+Manual testing can be time consuming and prone to human error. Not only it slows down the deployment process, but the quality of software can also be questionable. If the organization decides to automate the manual test cases and have those test cases added to deployment pipeline, then it ensures that quality of the software is being tested efficiently.
+
+GitFlow branching model can also be another example for continuous integration. When the feature branch is created and merged to master branch, then the continuous integration verifies that new changes do not create any conflicts with previous version of the application. The quality gates in the continuous integration should be placed in the correct regions to mitigate any conflicts or defects. There is also misconception that, by having these quality gates in the continuous integration pipeline, the application would be bug-free; that is certainly not the case. However, it locates the bug in the pipeline, so that developers can work on resolving it.
+
+[https://codeship.com/continuous-integration-essentials](https://codeship.com/continuous-integration-essentials)
+
 ## GitFlow
 
 GitFlow is way to collaborate codes via teams using a method called **branching**. Using branching, each team member is able to work on various aspects of their code in parallel to other aspects. This allows work to be split and each split branch focused on by different individuals. Once branches are completed and ready, the codes can be **merged** back into a master branch prior to release. Once a code is ready for release, it can be cloned and branched off into a develop mode. This code is then run to ensure any bugs are identified and fixed. If there is a need to edit the source code, the respective teams can make the edits merge the branches back into the master branch and a new testable code be branched off to test in development.
