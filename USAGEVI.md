@@ -21,3 +21,20 @@ This command is also very useful and it allows users to **create a new directory
 This command **prints out the present working directory** to user. If the user is not sure about the location, then this ‘pwd’ command comes in very handy. As shown below, the user performed pwd command and it provided working directory as following: `/C/Users/bhaga/Desktop/WebSystems/MiniProject1`
 
 ![pwd Example](/images/pwd.PNG)
+
+## mv
+This command comes in the very handy if user wants to **rename a file** or **move files around to different directories**. As shown in the example, user is moving COPY_README.md file from videos folder to MiniProject1 folder. 
+
+![mv Example](/images/mv.PNG)
+
+## rm
+**To remove specific files in directory**, user needs to use `rm` command. In addition, if user opts to **remove a directory**, then `rmdir` can also be used. As shown below, first, user removed COPY_README.md file from MiniProject1 folder. When user tried to delete videos folder, it prompted an error as it is a directory. These commands are very easy to utilize during software development process. 
+
+![rm Example](/images/rm.PNG)
+
+## history 
+This command will **print out previously executed commands**. This can also be very useful to keep track of all executed commands. As shown below, this examples shows different commands that user executed while working on this assignment. In addition, by using up and down arrow, user can navigate through these commands on terminal window as well. 
+
+![history Example](/images/history.PNG)
+
+These commands shown in the examples above are very helpful to **manage the file system** during software development lifecycle. User can **perform any tasks** from terminal window, instead of clicking and going around different folders. It can definitely **speed up the process**. The sign of `~`, represents home directory and user can easily navigate there by using change of directory command. Moreover, user can also utilize **tab key** to complete file paths **to avoid any repetitive typing**. When the user prints out first few characters of the name of the file, and then press Tab key, then it will complete the name for you.
