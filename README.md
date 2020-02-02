@@ -146,3 +146,5 @@ Status allows a user to see the status of a file or commit. This can be done thr
 The Master Branch is the main local path of the repository. In a collaboration sense, branches are created from the master branch. Each branch is worked on and then merged with the master. Below is the example: 
 
 ![Git Master Example](/images/master.png)
+
+[https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
