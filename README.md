@@ -2,9 +2,9 @@
 
 **Project Description:** This document explains how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company. In addition, this document also provides explanations around the usage of **Vi** and **GitFlow**.
 
-**Group Members**: Kamal Bhagat & Hiren Rana
+**Group Members:** Kamal Bhagat & Hiren Rana
 
-Here is the list of all the changes to this project: [Changelog](/CHANGELOG.md)
+**Here is the list of all the changes to this project:**[Changelog](/CHANGELOG.md)
 
 ## Git
 
