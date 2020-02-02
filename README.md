@@ -33,6 +33,16 @@ If the organization does not implement Docker, then they would have to manage ea
 
 [https://www.docker.com/why-docker](https://www.docker.com/why-docker)
 
+## Automated Testing
+
+In order to successfully deliver **high quality software** application to end-users, it is important that organization utilize test automation tools and techniques within deployment pipeline. Test Automation can certainly play huge role in succeeding with **continuous delivery**.
+
+For example, if there is an existing bug in the production for certain software application. To fix that defect, developers already created bugfix and it is ready to be pushed to production. However, first, the organization needs to complete thorough testing, which covers different levels of testing. If the organization opts to have manual testing, then it would be very time consuming and error-prone process. On the other hand, if the **automated quality gates** are being placed within the deployment pipeline, then these small frequent changes can be **deployed to production** at very **faster rate**.
+
+Test automation tools do not replace software testing *nor* should it be treated as more valuable in any organization. However, it is only there to **speed up the deployment release cycles** and assist teams to **identify any potential issues earlier** before the applications get released to production.
+
+[https://smartbear.com/learn/automated-testing/the-continuous-development-pipeline/](https://smartbear.com/learn/automated-testing/the-continuous-development-pipeline/)
+
 ## Continuous Integration
 
 By utilizing tools like Git and Docker, it allows users to have continuous integration and delivery environments for any given applications. Features like Git hooks, can also allow users to perform scripts when specific events take place inside the repository. Continuous integration can certainly allow code from different developers in your team, to be dependable. That way, it can automate the deployment process and it allows developers to deploy code from local branches to various preferred servers.
