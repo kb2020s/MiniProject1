@@ -4,6 +4,8 @@
 
 **Group Members:** Kamal Bhagat & Hiren Rana
 
+**Usage of Vi:** [Usage of Vi](/USAGEVI.md)
+
 **List of Changes:**  [Changelog](/CHANGELOG.md)
 
 ## Git
