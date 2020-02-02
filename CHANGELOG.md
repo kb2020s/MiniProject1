@@ -5,6 +5,15 @@ All changes related to MIiniProject1 will be documented in this file.
 
 |Merge #  | Feature/Task/Fix  | Author| 
 |--|--|--|
+|Merged  #30| [Task: Update Usage of Vi file and Link to Readme file](https://github.com/kb2020s/MiniProject1/pull/30)  |Kamal Bhagat	 |
+|Merged  #29| [Fix: Formatting issues](https://github.com/kb2020s/MiniProject1/pull/29) | Kamal Bhagat|
+|Merged  #28| [Feature: Added references section](https://github.com/kb2020s/MiniProject1/pull/28) | Kamal Bhagat|
+|Merged  #27| [Feature: Initial Commit with the usage of Vi file](https://github.com/kb2020s/MiniProject1/pull/27) | Kamal Bhagat|
+|Merged  #26| [Task: Uploaded images for the usage of Vi](https://github.com/kb2020s/MiniProject1/pull/26) | Kamal Bhagat|
+| Merged  #25| [Feature: Added Test Automation explanation](https://github.com/kb2020s/MiniProject1/pull/25) | Kamal Bhagat|
+|Merged  #24| [Fix: made adjustments with formatting in header](https://github.com/kb2020s/MiniProject1/pull/24) | Kamal Bhagat|
+| Merged  #23| [Feature: Added link for Changelog file](https://github.com/kb2020s/MiniProject1/pull/23) | Kamal Bhagat|
+|Merged  #22| [Feature: Created Changelog file to track all the changes](https://github.com/kb2020s/MiniProject1/pull/22) | Kamal Bhagat|
 |Merged  #21|  [Feature: Added explanation for CI](https://github.com/kb2020s/MiniProject1/pull/21) | Kamal Bhagat |
 |Merged  #20|  [Feature/docker](https://github.com/kb2020s/MiniProject1/pull/20) | Kamal Bhagat|
 |Merged  #19 | [Fix: formatting with image](https://github.com/kb2020s/MiniProject1/pull/19) | Kamal Bhagat|
