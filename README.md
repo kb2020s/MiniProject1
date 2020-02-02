@@ -4,6 +4,8 @@
 
 **Group Members**: Kamal Bhagat & Hiren Rana
 
+Here is the list of all the changes to this project: [Changelog](/CHANGELOG.md)
+
 ## Git
 
 As mentioned in the lecture, Git is one of the most widely used version control system around the world. It was originally developed in 2005 by Linus Torvalds, who created Linux operating system kernel. Git is also open source project with very great documentation, including tutorials and dedicated web sites. In addition to that, Git also provides the functionality,performance, security, and flexibility so that it allows teams across the world to work efficiently on their applications. If the organization decides to implement Git in their projects, it would certainly reduce team’s communication overhead and increase release velocity. Each developer in the team is allowed to work independently on their separate branches of feature development and then, eventually merging those changes together.
