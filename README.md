@@ -115,18 +115,33 @@ The Master Branch is the main local path of the repository. In a collaboration s
 
 ![Git Master Example](/images/master.png)
 
-## References 
+## References
+
+  
 
 [^1]: [https://www.atlassian.com/git/tutorials/why-git](https://www.atlassian.com/git/tutorials/why-git)
 
+  
+
 [^2]: [https://www.docker.com/why-docker](https://www.docker.com/why-docker)
+
+  
 
 [^3]: [https://smartbear.com/learn/automated-testing/the-continuous-development-pipeline/](https://smartbear.com/learn/automated-testing/the-continuous-development-pipeline/)
 
+  
+
 [^4]: [https://codeship.com/continuous-integration-essentials](https://codeship.com/continuous-integration-essentials)
+
+  
 
 [^5]: [https://datasift.github.io/gitflow/IntroducingGitFlow.html](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
 
+  
+
 [^6]: [https://help.github.com/en/github/getting-started-with-github/github-glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
+  
+
 [^7]: [https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+
